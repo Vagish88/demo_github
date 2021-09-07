@@ -6,5 +6,9 @@ my second commit with more data
 
 more text in main branch 
 
+want to merge both branches 
+
 regards 
 vagish rathod
+
+done with code 
