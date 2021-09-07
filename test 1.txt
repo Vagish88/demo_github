@@ -4,6 +4,13 @@ my first commit
 
 my second commit with more data 
 
+
+second ativity :
+
+Git push and other things 
+
+creating other branch
+
 more text in main branch 
 
 want to merge both branches 
@@ -12,3 +19,4 @@ regards
 vagish rathod
 
 done with code 
+
