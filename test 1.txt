@@ -3,5 +3,11 @@ welcome to github world
 my first commit
 
 my second commit with more data 
-regards 
-vagish rathod
+
+want ti learn more 
+
+second ativity :
+
+Git push and other things 
+
+creating other branch
